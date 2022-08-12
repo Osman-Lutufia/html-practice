@@ -1,0 +1,13 @@
+*{
+     background-color:blueviolet;
+}
+nav{
+    background-color:blue;
+    height: 10vh;
+}
+nav a{
+    margin: 30px;
+    padding: 20px;
+    justify-content: space-between;
+    float: right;
+}
